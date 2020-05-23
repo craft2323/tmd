@@ -1,2 +1,2 @@
 # tmd
-teet rep
+teet rep for git comands destination
